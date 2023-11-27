@@ -1,2 +1,2 @@
 # project2
-working on a Weeather app
+working on a Weather app
